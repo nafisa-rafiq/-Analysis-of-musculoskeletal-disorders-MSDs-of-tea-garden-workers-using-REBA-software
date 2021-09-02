@@ -1,1 +1,3 @@
-# -Analysis-of-musculoskeletal-disorders-MSDs-of-tea-garden-workers-using-REBA-software
+# Analysis of musculoskeletal disorders (MSDs) of tea garden workers using REBA software
+
+For this project, I analyzed the postures of multiple tea-garden workers during their work using REBA software. I collected the data from the workers for different body positions and analyzed the position score using the REBA tool. I found that a large majority of them do not follow the standard postures while performing their tasks, such as heavy lifting. Consequently, almost 90% of them face various cases of MSDs, such as shoulder and low-back disorders for workers performing heavy lifting and MSDs of hands and fingers for workers who pluck leaves.
